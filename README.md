@@ -6,9 +6,8 @@ I build cross-platform mobile apps with **React Native** and **TypeScript** — 
  
 I've worked across **recruitment**, **health tech**, **hospitality**, and **EdTech**. I care about clean code, performance, and shipping features that actually work well for users.
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufyan-tariq-a46186132)
+🔗 **LinkedIn:** [Sufyan Tariq](https://www.linkedin.com/in/sufyan-tariq-a46186132)
  
-</div>
 ---
  
 ## 🚀 Featured Projects
@@ -77,5 +76,7 @@ I started as a Junior React Native Developer in **2018** and have since worked a
  
 ## 📬 Reach Me
  
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sufyan_Tariq-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufyan-tariq-a46186132)
+- 📞 **Phone:** [+92 300 1211040](tel:+923001211040)
+- 💼 **Upwork:** [View Profile](https://www.upwork.com/freelancers/~0175c390a0de59f0c7)
+- 🔗 **LinkedIn:** [Sufyan Tariq](https://www.linkedin.com/in/sufyan-tariq-a46186132)
+ 
