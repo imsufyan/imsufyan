@@ -1,57 +1,81 @@
-Hi, I'm Sufyan Tariq 👋
-[One-line summary of what you do — e.g. "I build full-stack web and mobile applications, from frontend to backend, design to deployment."]
-
-[Optional second line — industries/domains you've worked in, e.g. "I've shipped products for healthcare, logistics, EdTech, travel, and fintech clients."]
-
-[Optional third line — what makes you different, e.g. "I don't just write code — I own architecture decisions and wire AI where it actually changes the product."]
-
-⚡ Featured Projects
-The ones I've poured the most craft into.
-
-🛠 [Category, e.g. SaaS Products]
-
-[Emoji] [Project Name] — [One-line description]
-Tech Tech Tech Tech
-[2-3 sentences on what you built, the architecture, and any standout technical detail.]
-
-[Emoji] [Project Name] — [One-line description]
-Tech Tech Tech Tech
-[2-3 sentences on what you built, the architecture, and any standout technical detail.]
-
-📊 [Category, e.g. Enterprise Dashboards & Platforms]
-
-[Emoji] [Project Name] — [One-line description]
-Tech Tech Tech
-[2-3 sentences describing the project.]
-
-[Emoji] [Project Name] — [One-line description]
-Tech Tech Tech
-[2-3 sentences describing the project.]
-
-🌍 [Category, e.g. Client Products]
-
-[Emoji] [Project Name] — [One-line description]
-Tech Tech Tech
-[2-3 sentences describing the project.]
-
-🔧 Tech Stack
-Frontend       [e.g. React.js · Next.js · TypeScript · Tailwind CSS]
-Mobile         [e.g. React Native · Flutter · iOS & Android]
-Backend        [e.g. Node.js · NestJS · Django · Express.js]
-Databases      [e.g. PostgreSQL · MySQL · MongoDB · Prisma]
-AI / LLM       [e.g. OpenAI · Anthropic Claude · LangChain]
-Cloud          [e.g. AWS · DigitalOcean · Docker]
-Auth           [e.g. JWT · OAuth · Role-based access control]
-Tooling        [e.g. Git · CI/CD · Storybook]
-
-📍 Currently
-🏗 [What you're building right now]
-🤖 [What you're learning or exploring]
-📬 [Any milestone — e.g. "X projects · Y hrs shipped"]
-
-📬 Let's work together
-[1-2 sentences on who you work best with and what you offer.]
-
-[X] years · [Your specialty] · Remote-first
-
-📫 Reach me: [Email] · [LinkedIn] · [Portfolio/Website] · [Twitter/X]
+# 👋 Hi, I'm Sufyan Tariq
+ 
+### 📱 Cross-Platform Mobile App Developer | React Native • TypeScript
+ 
+I build cross-platform mobile apps with **React Native** and **TypeScript** — 5+ years of experience taking apps from idea to production on both iOS and Android.
+ 
+I've worked across **recruitment**, **health tech**, **hospitality**, and **EdTech**. I care about clean code, performance, and shipping features that actually work well for users.
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufyan-tariq-a46186132)
+ 
+</div>
+---
+ 
+## 🚀 Featured Projects
+ 
+### 💼 [Huzzle — Early Careers Network](https://play.google.com/store/apps/details?id=app.huzzle.huzzle)
+A student–employer matching platform using algorithm-based job matching. **Live on Android and iOS.**
+ 
+- 🔔 Built real-time notifications, social login with OAuth, and dynamic job filtering
+- 🗃️ Used **Redux** and **RTK Query** for state management
+- ⚡ Improved app startup time by **35%** through bundle splitting, lazy loading, and Hermes engine optimization
+---
+ 
+### 🩺 [Veto — Smart Health Scanner](https://play.google.com/store/apps/details?id=com.vetoapp.app)
+A health scanner app that identifies harmful ingredients through barcode recognition.
+ 
+- 📷 Barcode-based ingredient scanning
+- 💳 In-app subscription support
+---
+ 
+### 🍽️ [R2N — Restaurant 2 Night](https://play.google.com/store/apps/details?id=com.r2n)
+A restaurant booking app with discounts, menu browsing, user reviews, and smart filtering.
+ 
+- 📱 Available on Android
+- 📈 **50K+ downloads**
+---
+ 
+### 🧠 Breakness — Gamified Learning Platform
+A mindful alternative to doomscrolling, built around bite-sized educational content.
+ 
+- 📱 Available on Android
+---
+ 
+### 💫 [SunnahSouls — Muslim Matchmaking App](https://play.google.com/store/apps/details?id=com.sunnahsouls.app)
+An Islamic social platform that helps Muslims connect for meaningful conversations and find compatible marriage partners in a safe, respectful environment.
+ 
+- 💬 Guided conversation system with prompts around shared values, beliefs, and life goals
+- 📹 Connect via video chat, voice calls, or text messaging
+---
+ 
+## 🛠️ Tech Stack
+ 
+| Category | Technologies |
+|---|---|
+| 🧑‍💻 **Languages** | JavaScript (ES6+), TypeScript, HTML, CSS |
+| 📱 **Mobile** | React Native, React Navigation |
+| 🗃️ **State Management** | Redux, RTK Query |
+| 🔗 **APIs** | REST, GraphQL, JSON |
+| 🗄️ **Databases** | Firebase, Firestore, Realm |
+| 🔌 **Integrations** | Stripe, Google Maps, Mapbox, In-App Purchases, Subscriptions, Social Logins, Push Notifications |
+| ⚡ **Real Time** | Socket.IO, WebSockets, Real-Time Chat Messaging |
+| 🚢 **DevOps** | App Store & Play Store submission, Git, GitHub, Bitbucket, GitLab |
+| 🧰 **Tools** | JIRA, Trello, Slack, VS Code, Android Studio |
+| 🏎️ **Performance** | Profiling, memory management, Hermes engine, bundle splitting, lazy loading |
+ 
+---
+ 
+## 💼 Currently
+ 
+Working as a **Senior Software Engineer** at **Viral Square**, leading React Native development and helping set architecture and best practices for the team.
+ 
+## 🌱 Background
+ 
+I started as a Junior React Native Developer in **2018** and have since worked at agencies and product companies — building apps from scratch, mentoring junior developers, and managing App Store and Play Store releases.
+ 
+---
+ 
+## 📬 Reach Me
+ 
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sufyan_Tariq-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufyan-tariq-a46186132)
